@@ -36,7 +36,8 @@ Melalui proses cleansing dan standardisasi, semua nama wilayah berhasil diselara
 ## 📎 File Penting
 
 - `technical_test.ipynb`: Notebook utama berisi seluruh proses.
-- `data/`: Folder berisi file data mentah (jika disediakan).
+- `masterdesa - masterdesa`: Data master desa, kumpulan informasi desa-desa berdasarkan data BPS dan KEMENDAGRI
+- `Data Dinas Sosial - Data Dinas Sosial` : Data sebagai penerima bantu sosial berdasarkan Data Dinas Sosial Provinsi Jawa Timur
 - `data_final.csv`: Hasil akhir data yang sudah bersih dan lengkap.
 
 ## 📬 Kontak & Media Sosial
