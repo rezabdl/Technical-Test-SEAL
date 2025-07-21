@@ -44,8 +44,8 @@ Melalui proses cleansing dan standardisasi, semua nama wilayah berhasil diselara
 
 Jika ada pertanyaan atau ingin terkoneksi:
 
-- 📧 Email: reza.irwansyah.aryanto@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/reza-irwansyah-aryanto](https://www.linkedin.com/in/reza-irwansyah-aryanto)
+- 📧 Email: rezairwansyaharyanto@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/reza-irwansyah-aryanto](www.linkedin.com/in/reza-irwansyah-aryanto-0b1483274)
 - 📸 Instagram: [@rez_irw](https://www.instagram.com/rez_irw)
 
 ---
